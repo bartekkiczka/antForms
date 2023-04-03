@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "name": "Karta kontroli przejścia asortymentowego i przejęica zmian",
+      "reference": "03-19-F-14 Wyd 5",
+      "created": "2021-03-19 10:17",
+      "deadline": "2021-03-19 10:17",
+      "modified": "Jane Cooper",
+      "lastModification": "2021-03-19 10:17",
+      "status": "Approved",
+      "result": "done",
+      "requiredAction": []
+    },
+    {
+      "name": "Stretch foil weight control report",
+      "reference": "03-04-F-030",
+      "created": "2021-03-19 10:17",
+      "deadline": "2021-03-19 10:17",
+      "modified": "Esther Howard",
+      "lastModification": "2021-03-19 10:17",
+      "status": "In progress",
+      "result": "undone",
+      "requiredAction": ["quality"]
+    },
+    {
+      "name": "Karta kontroli przejścia asortymentowego i przejęica zmian",
+      "reference": "03-19-F-14 Wyd 5",
+      "created": "2021-03-19 10:17",
+      "deadline": "2021-03-19 10:17",
+      "modified": "Brooklyn Simmons",
+      "lastModification": "2021-03-19 10:17",
+      "status": "In progress",
+      "result": "undone",
+      "requiredAction": ["operator"]
+    },
+    {
+      "name": "Karta kontroli przejścia asortymentowego i przejęica zmian",
+      "reference": "03-19-F-14 Wyd 5",
+      "created": "2021-03-19 10:17",
+      "deadline": "2021-03-19 10:17",
+      "modified": "Jenny Wilson",
+      "lastModification": "2021-03-19 10:17",
+      "status": "Created",
+      "result": "undone",
+      "requiredAction": ["operator", "quality", "more", "more"]
+    },
+    {
+      "name": "Potwierdzenie wykonania generalnego czyszczenia i odrdzewienia",
+      "reference": "03-10-F-002",
+      "created": "2021-03-19 10:17",
+      "deadline": "2021-03-19 10:17",
+      "modified": "Robert Fox",
+      "lastModification": "2021-03-19 10:17",
+      "status": "Created",
+      "result": "undone",
+      "requiredAction": ["operator"]
+    },
+    {
+      "name": "Karta kontroli przejścia asortymentowego i przejęica zmian",
+      "reference": "03-19-F-14 Wyd 5",
+      "created": "2021-03-19 10:17",
+      "deadline": "2021-03-19 10:17",
+      "modified": "Cody Fisher",
+      "lastModification": "2021-03-19 10:17",
+      "status": "Created",
+      "result": "undone",
+      "requiredAction": ["operator"]
+    },
+    {
+      "name": "Karta kontroli przejścia asortymentowego i przejęica zmian",
+      "reference": "03-19-F-14 Wyd 5",
+      "created": "2021-03-19 10:17",
+      "deadline": "2021-03-19 10:17",
+      "modified": "Albert Flores",
+      "lastModification": "2021-03-19 10:17",
+      "status": "Created",
+      "result": "undone",
+      "requiredAction": ["operator"]
+    }
+  ]
+}
